@@ -1,0 +1,18 @@
+2022-11-05 16:46:37,347 [INFO]  ****************************** LOGGING NEW LOAD **********************************
+2022-11-05 16:46:37,392 [INFO] LOCATIONS RAW : 8398
+2022-11-05 16:46:37,436 [INFO] NUMBER OF ADDRESS : 5676
+2022-11-05 16:46:37,436 [INFO] Started scraping Prince George's County for worker arg_worker from search term arg_last_page onwards.
+2022-11-05 16:55:38,040 [INFO]  ****************************** LOGGING NEW LOAD **********************************
+2022-11-05 16:55:38,068 [INFO] LOCATIONS RAW : 8398
+2022-11-05 16:55:38,115 [INFO] NUMBER OF ADDRESS : 5676
+2022-11-05 16:55:38,116 [INFO] Started scraping Prince George's County for worker arg_worker from search term arg_last_page onwards.
+2022-11-05 17:02:20,836 [INFO]  ****************************** LOGGING NEW LOAD **********************************
+2022-11-05 17:02:20,856 [INFO] LOCATIONS RAW : 8398
+2022-11-05 17:02:20,904 [INFO] NUMBER OF ADDRESS : 5676
+2022-11-05 17:02:20,904 [INFO] Started scraping Prince George's County for worker arg_worker from search term arg_last_page onwards.
+2022-11-05 17:02:20,906 [INFO] ('2', "Prince George's County", '5', '16th', '1', '4', '2022-11-05 11:23:47', 'FETCHED')
+2022-11-05 17:02:20,906 [INFO] ====== WebDriver manager ======
+2022-11-05 17:02:21,057 [INFO] Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-05 17:02:21,409 [INFO] There is no [linux64] chromedriver for browser 106.0.5249 in cache
+2022-11-05 17:02:21,410 [INFO] About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_linux64.zip
+2022-11-05 17:02:22,474 [INFO] Driver has been saved in cache [/home/hp/.wdm/drivers/chromedriver/linux64/106.0.5249]
